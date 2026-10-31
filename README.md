@@ -162,4 +162,4 @@ The project also demonstrates how changing model parameters can influence classi
 
 **Project:** Resume Classification Using Machine Learning  
 **Course:** Information Retrieval (21CSE377T)  
-**Task:** CLA-2 – Task 2: Text Classification Battle – Compare, Analyze and Defend
+**Task:** Task 2: Text Classification Battle – Compare, Analyze and Defend
